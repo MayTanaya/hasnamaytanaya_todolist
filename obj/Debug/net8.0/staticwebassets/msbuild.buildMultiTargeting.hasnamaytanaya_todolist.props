@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hasnamaytanaya_todolist.props" />
+</Project>
