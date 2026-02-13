@@ -28,7 +28,7 @@ cd hasnamaytanaya_todolist
 
 ### 2. Install Dependencies & Setup Database
 
-Project ini menggunakan SQLite. Anda perlu melakukan restore package dan update database (_migration_) agar file `todos.db` terbentuk otomatis.
+Project ini menggunakan SQLite sehingga perlu melakukan restore package dan update database (_migration_) agar file `todos.db` terbentuk otomatis.
 
 #### Restore NuGet Packages
 
